@@ -1,4 +1,4 @@
-# IPv6 for the IPv4 Brain
+# IPv6: Basics, in Wireshark, troubleshooting, hacking, attacking
 
 ## Local Workstation Setup
 Install Wireshark on your platform of choice.   Download from https://www.wireshark.org/#download
